@@ -1,9 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashanau&show_icons=true&theme=chartreuse-dark)
 
 ### I study in
-park.vk - Системный архитектор https://park.vk.company/<br>
-Школа 21 Сбер https://21-school.ru/
-[link text](https://azure.microsoft.com/pricing/details/virtual-machines/)
+[park.vk - Системный архитектор](https://park.vk.company/)<br>
+[Школа 21 Сбер](https://21-school.ru/)
 
 ### 📋 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
