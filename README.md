@@ -1,7 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sashanau&show_icons=true&theme=chartreuse-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sashanau)](https://github.com/sashanau/github-readme-stats)
-
 ### 📋 Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
